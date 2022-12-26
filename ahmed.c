@@ -1,6 +1,6 @@
 #include <stdio.h>
 int mian()
 {
-	printf("hello worled test2");
+	printf("hello worled test3");
 	return 1;
 }
